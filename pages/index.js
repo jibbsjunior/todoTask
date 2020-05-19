@@ -28,7 +28,6 @@ export default function Home() {
                 <input type="text" className="form-control" id="todo-list-item" placeholder="What do you need to do today?" />
                 <button className="btn btn-block btn-primary mt-2" type="submit">Add to List</button>
             </form>
-            <p>Am Adebayo Rilwan Ajibola, a fullstack web developer from lagos</p>
     </div>
   )
 }
